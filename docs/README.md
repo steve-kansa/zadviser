@@ -20,3 +20,5 @@ footer: MIT Licensed | Copyright © 2018-present David Kennedy
 <center> <h1>Evolution of DevOps KPIs</h1> </center>
 
 zAdviser KPIs measure development quality, velocity and efficiency at the individual, team and organizational level. These measurements provide evidence towards continuous improvement and are key to charting a DevOps journey. The KPIs were developed based on extensive research with customers and align with those published in the 2018 Forrester report “Use Four Key Categories to Measure What Matters in Continuous Deployment.”
+
+<center> <h1>Whoa don't trip over this header.</h1> </center>

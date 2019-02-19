@@ -19,6 +19,10 @@ module.exports = {
                         link: '/guide/link2.md'
                     }
                 ]
+            },
+            {
+                text: 'Status',
+                link: 'https://zadviser.statuspage.io'
             }
         ],
             // Assumes GitHub. Can also be a full GitLab url.
