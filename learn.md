@@ -44,7 +44,7 @@ zAdviser is the next evolution of Compuware’s previous offering, the Value Imp
 
 ## The zAdviser Framework
 
-zAdviser is a collaborative service: Compuware customers feed zAdviser their DevOps data and Compuware product-usage data on a regular basis, and as more customers share more data, the zAdviser’s machine-learning model improves, providing evidence of what development actions produce the best outcomes in quality, velocity and efficiency. Customers will then have access to their data and results on a 24/7 basis to help them improve productivity.
+zAdviser is a collaborative service: Compuware customers feed zAdviser DevOps data and Compuware product-usage data on a regular basis, and as more customers share more data, the zAdviser’s machine-learning model improves, providing evidence of what development actions produce the best outcomes in quality, velocity and efficiency. Customers will then have access to their data and results on a 24/7 basis to help them improve productivity.
 
 ### Dashboard Display DevOps Progress
 
