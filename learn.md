@@ -22,11 +22,11 @@ footer: MIT Licensed | Copyright © 2018-present David Kennedy
 
 zAdviser uses machine learning to find correlations between developer behaviors and key performance indicators (KPIs) based on DevOps toolchain data and Compuware product-usage data. zAdviser is a free service for Compuware customers on current maintenance.
 
-Today, 57 percent of firms run more than half their mission-critical applications on the mainframe, and 72 percent of organizations say their customer-facing applications are completely or very reliant on mainframe processing, according to research published in a 2018 Forrester Consulting study commissioned by Compuware. But mainframe teams are still grappling with diminishing expertise, having only replaced 37 percent of their lost mainframe workforce over the past five years.
+Today, 59 percent of firms run more than half their mission-critical applications on the mainframe, and 72 percent of organizations say their customer-facing applications are completely or very reliant on mainframe processing, according to research published in a 2018 Forrester Consulting study commissioned by Compuware. But mainframe teams are still grappling with diminishing expertise, having only replaced 37 percent of their lost mainframe workforce over the past five years.
 
 As organizations work to accelerate mainframe application development and delivery to accommodate for growing workloads with a smaller, less-experienced staff, they need a way to continuously measure and improve mainframe DevOps processes and development outcomes. A program of KPIs is necessary for accomplishing this.                       
 
-## The zAdviser Movement
+## The zAdviser Movement is real
 
 Leverage machine learning to show how patterns of behavior can help improve development processes over time
 Employ advanced analytics to drive efforts toward improving developer speed and quality as you transition to an agile delivery model
